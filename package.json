@@ -6,7 +6,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.12.4",
-    "mongoose-auto-increment": "^5.0.1",
+    "mongoose-auto-increment": "^5.0.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
