@@ -8,6 +8,9 @@
     "mongoose": "^5.12.4",
     "mongoose-auto-increment": "^5.0.1"
   },
+  "engines": {
+    "node": "6.11.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
